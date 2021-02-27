@@ -1,0 +1,21 @@
+body{
+    background-color: dimgrey;
+    color: white;
+}
+
+h1,h2,h3,h4{
+    color: rgb(135, 207, 235);
+    font-family: sans-serif;
+}
+p{
+    font-family: 'Times New Roman' ;
+    font-size: 20px;
+}
+hr{
+    width: 50%;
+    margin: 0;
+}
+
+img {
+    object-fit: cover;
+}
